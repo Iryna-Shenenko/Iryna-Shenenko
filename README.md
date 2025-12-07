@@ -57,24 +57,17 @@
 
 ### 🔹 **Car Rental App** (React + Redux Toolkit)
 Modern car catalog with filters, favorites, routing.  
-👉 *Repository link*
+
 
 ### 🔹 **Authentication System (Node.js + MongoDB)**
 Google OAuth, password change, email verification, JWT.  
-👉 *Repository link*
+
 
 ### 🔹 **Image Search App**
 Pixabay API, Vite, SimpleLightbox, loader, pagination.  
-👉 *Repository link*
-
-*(Скажеш — я вставлю справжні посилання з твого GitHub)*
-
----
 
 ## 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
----
 
-⭐️ *If you like my profile — feel free to star my projects!*
