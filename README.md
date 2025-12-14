@@ -67,7 +67,7 @@ Google OAuth, password change, email verification, JWT.
 Pixabay API, Vite, SimpleLightbox, loader, pagination.  
 
 ## 📫 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/iryna-shenenko-fullstack)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
 
